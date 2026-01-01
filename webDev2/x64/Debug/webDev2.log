@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\quinn\Documents\c++shid\webDev2\webDev2\main.cpp(126,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  webDev2.vcxproj -> C:\Users\quinn\Documents\c++shid\webDev2\webDev2\x64\Debug\webDev2.exe
