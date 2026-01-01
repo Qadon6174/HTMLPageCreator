@@ -17,3 +17,6 @@ This program is primarily for me to test C++ capabilities in processing and writ
 - Expanded preset tag commands (for images and links)
 - CSS Stylesheet parsing and editing
 - More refined header parsing
+
+##Example of what this program is capable of
+<img width="1844" height="519" alt="image" src="https://github.com/user-attachments/assets/73ab05b4-b543-4d16-a3c2-dab3a60f046e" />
