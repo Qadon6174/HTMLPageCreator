@@ -1,4 +1,4 @@
-# HTMLPageCreator
+# HTML Page Creator
 ## Objective:
 The goal of this project is to create a C++ program capable of...
 1. Processing an HTML document (Formatted correctly, IE as an export of the program)
